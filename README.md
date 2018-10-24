@@ -30,18 +30,18 @@ Instructions to run the test
 
 #sample input for group creation: inventory/group/create
 {
-  "description": "chomu GRP desc",
+  "description": "GRP desc",
   "deviceList": [{}],
   "id": 0,
-  "name": "chomu grp"
+  "name": "some grp"
 }
 
 #sample input for group update: inventory/group/update
 {
-  "description": "chomu2 GRP desc",
+  "description": "GRP desc update",
   "deviceList": [{}],
   "id": 0,
-  "name": "chomu2 grp"
+  "name": "grp 2"
 }
 
 #sample request to create group-device mapping:
